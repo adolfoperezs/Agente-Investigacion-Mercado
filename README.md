@@ -101,10 +101,6 @@ Para personalizar el agente:
 2. **Ajustar el Prompt**: Modifica la plantilla de prompt en `main.py` para cambiar el formato o las instrucciones.
 3. **Cambiar el Tema**: Actualiza la variable `tema_investigacion` para investigar diferentes mercados.
 
-## Licencia
-
-[Especificar la licencia del proyecto]
-
 ---
 
 Desarrollado con ❤️ utilizando LangChain y OpenAI
